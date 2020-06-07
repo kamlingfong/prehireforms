@@ -427,7 +427,7 @@ h2, h3, h4, h5, h6, figure {
 
 .colorlib-intro .play {
   width: 100%;
-  display: block;
+  display: none;
   margin: 30px 0; }
   .colorlib-intro .play a {
     width: 100px;
